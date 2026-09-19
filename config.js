@@ -11,9 +11,9 @@ window.CozinhaComLuConfig = {
   // PLANOS, PREÇOS E LINKS DE PAGAMENTO
   planos: {
     basico: {
-      precoAntes: '€97',
+      precoAntes: '€49,90',
       preco: '€9,90',
-      linkPagamento: 'https://pay.hotmart.com/V103624520G?off=1rcepqck&checkoutMode=10'
+      linkPagamento: 'https://pay.hotmart.com/C107687635H?off=ihndelia'
     },
 
     completo: {
