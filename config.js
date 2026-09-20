@@ -5,8 +5,8 @@
 window.CozinhaComLuConfig = {
   // VISIBILIDADE
   // true = mostrar | false = ocultar
-  mostrarBonus: true, // .bonus-bridge + .bonuses
-  mostrarPlanoCompleto: true, // .alerta-up + .plano-recomendado-wrap
+  mostrarBonus: false, // .bonus-bridge + .bonuses
+  mostrarPlanoCompleto: false, // .alerta-up + .plano-recomendado-wrap
 
   // PLANOS, PREÇOS E LINKS DE PAGAMENTO
   planos: {
